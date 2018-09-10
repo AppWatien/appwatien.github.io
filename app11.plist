@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://cdn.appvalley.vip/80.com.nibblesnbits.ipcamviewer.ipa?1536163807</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://appwatien.github.io/1024.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.nibblesnbits.ipcamviewer</string>
+				<key>bundle-version</key>
+				<string>3.2.6</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>❬IP Cam Viewer Pro❭</string>
+				<key>label</key>
+				<string>💦App Watien💦</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
