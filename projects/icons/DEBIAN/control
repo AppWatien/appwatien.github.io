@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: AppWatien
+Depiction: https://github.com/AppWatien/appwatien.github.io
+Description: Adds Icon Images
+Maintainer: AppWatien <reponame@example.com> 
+Name: icons
+Package: com.appwatien.icons
+Section: Tweaks
+Version: 1.0
